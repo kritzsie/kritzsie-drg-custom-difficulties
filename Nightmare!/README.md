@@ -40,6 +40,7 @@ This is probably the one you want. Lots of bugs, lots of chaos!
 - Fire bombers and stalkers are enabled, based on pH-JPEG's configs
 - A lower-health variant of ebonite glyphids can spawn as disruptive enemies
 - Rockpox breeders added as stationary enemies, and will spawn exploders
+- Swarmer tunnels spawn dreadnought swarmers
 
 ## Naming convention
 The names of these difficulties are based off of the game Doom (yes, the original one), where *Nightmare!* was the fifth and hardest difficulty available to players.

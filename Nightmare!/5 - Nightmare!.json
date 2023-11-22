@@ -238,7 +238,6 @@
       "SpawnAmountModifier": 1,
       "DifficultyRating": 75,
       "Rarity": 7.5,
-      "SpawnAmountModifier": 1,
       "CanBeUsedForConstantPressure": true,
       "CanBeUsedInEncounters": true,
       "SpawnSpread": 500
@@ -286,6 +285,9 @@
     },
     "ED_PlagueLarva": {
       "Base": "ED_Spider_Exploder"
+    },
+    "ED_TunnelSwarmer": {
+      "Base": "ED_Spider_Swarmer_Pheromone_NOFX"
     }
   },
   "EnemyPool": {
