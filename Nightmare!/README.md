@@ -34,7 +34,8 @@ This is probably the one you want. Lots of bugs, lots of chaos!
 ### Additional details
 - Friendly fire is set to 100%
 - Doretta has 75% damage resistance
-- Enemy diversity uses custom bins, favouring waves with medium to high diversity
+- Enemy diversity uses custom bins, favouring waves with high diversity
+- There is a small chance that the game will spawn a "Diablo" wave with minimum enemy diversity
 
 ### Custom enemy descriptors
 - Fire bombers and stalkers are enabled, based on pH-JPEG's configs
@@ -43,5 +44,5 @@ This is probably the one you want. Lots of bugs, lots of chaos!
 - Swarmer tunnels spawn dreadnought swarmers
 
 ## Naming convention
-The names of these difficulties are based off of the game Doom (yes, the original one), where *Nightmare!* was the fifth and hardest difficulty available to players.
+The names of these difficulties are based off of Doom (yes, the old DOS game) where *Nightmare!* was the name of the 5th and hardest difficulty available.
 
