@@ -1,7 +1,7 @@
 # Nightmare!
 *Nightmare!* is a difficulty that attempts to bring together some of the best ideas from a variety of custom hazard levels.
 
-The goal is to provide a fun and challenging experience for players of varying skill levels, so bugs aren't as tanky as Hazard 6, but spawn in numbers large enough to easily overwhelm a team of dwarves. There are also some spicy additions which are best experienced blind.
+The goal is to provide a fun and challenging experience for players of varying skill levels. Bugs aren't as tanky as Hazard 6, but spawn in numbers large enough to easily overwhelm a team of dwarves. There are also some spicy additions which are best experienced blind.
 
 For a spoiler-free experience, skip this document until you've tried a couple of missions on this difficulty.
 
@@ -41,7 +41,7 @@ This is probably the one you want. Lots of bugs, lots of chaos!
 - Fire bombers and stalkers are enabled, based on pH-JPEG's configs
 - A lower-health variant of ebonite glyphids can spawn as disruptive enemies
 - Rockpox breeders added as stationary enemies, and will spawn exploders
-- Swarmer tunnels spawn dreadnought swarmers
+- Swarmer tunnels and swarmer eggs now spawn shredders
 
 ## Naming convention
 The names of these difficulties are based off of Doom (yes, the old DOS game) where *Nightmare!* was the name of the 5th and hardest difficulty available.

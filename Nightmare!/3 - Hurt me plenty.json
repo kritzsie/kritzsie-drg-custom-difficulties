@@ -294,7 +294,10 @@
       "Base": "ED_Spider_Exploder"
     },
     "ED_TunnelSwarmer": {
-      "Base": "ED_Spider_Swarmer_Pheromone_NOFX"
+      "Base": "ED_Shredder"
+    },
+    "ED_EggSpider": {
+      "Base": "ED_Shredder"
     }
   },
   "EnemyPool": {
