@@ -279,7 +279,7 @@
       "Base": "ED_JellyBreeder_RockpoxPlague",
       "IdealSpawnSize": 1,
       "MinSpawnCount": 1,
-      "MaxSpawnCount": 2,
+      "MaxSpawnCount": 1,
       "SpawnAmountModifier": 0.5,
       "DifficultyRating": 180,
       "Rarity": 10,
